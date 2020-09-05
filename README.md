@@ -1,2 +1,4 @@
 # Guess-The-Number-Game
-Guess the number game in python
+Guess the number game in C++
+
+
